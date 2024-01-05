@@ -1,0 +1,9 @@
+{
+    "name": "LethalStamina",
+    "version_number": "0.1.5",
+    "website_url": "https://github.com/lior6514/Lethal-Company-by-Liorjks/commit/24fde3288dca07c927d94af74f3bd3149b933222",
+    "description": "A Mod for infinite stamina just for learning to mode",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
